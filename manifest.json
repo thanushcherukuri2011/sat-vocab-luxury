@@ -1,0 +1,16 @@
+{
+  "name": "SAT Vocabulary — Luxury Edition",
+  "short_name": "SAT Vocab",
+  "start_url": "./sat_vocab_luxury_quiz.html",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#d9b25f",
+  "description": "Quiz, flashcards, and an incremental clicker game for mastering SAT vocabulary, with spaced repetition and analytics.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
